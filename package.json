@@ -1,0 +1,11 @@
+{
+  "name": "pineapple_grid",
+  "version": "1.0.0",
+  "description": "a simple lightweight flexbox grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niko Haug",
+  "license": "ISC"
+}
